@@ -2,7 +2,7 @@
 layout: post
 title:  "Preparing to Apply to Google Summer of Code"
 date:   2025-03-25 03:57:00 -0400
-category: Low-Level Programming
+category: GSoC
 ---
 # Introduction
 I've wanted for years to apply to Google Summer of Code, an internship program sponsored by Google but run by open-source projects. This year, following my starting college last year, I decided this was the right time. At first, the Tor Project's [proposal](https://gitlab.torproject.org/tpo/team/-/wikis/GSoC#1-project-rewrite-metrics-lib-in-rust) for rewriting a telemetry tool in Rust grabbed my interest, but I decided my Rust experience, while not insignificant, is probably not ready for that task quite yet. Given I'm a cybersecurity major, I wanted something relevant to my career. Rust made sense, being a language essentially designed around security. Continuing my search, I wanted to find another relevant project to apply for. Eventually I found it in the GNOME Foundation's [internship](https://gitlab.gnome.org/Teams/internship/project-ideas/-/issues/58) for developing a proof of concept for security enhancements to [GNOME Papers](https://apps.gnome.org/Papers/). This blog post chronicles my experience applying for the position, up to the point of submitting my application.
