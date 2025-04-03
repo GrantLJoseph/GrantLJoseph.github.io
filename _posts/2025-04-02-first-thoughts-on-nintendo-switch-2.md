@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "First Thoughts on Nintendo Switch 2"
+category: Gaming
+---
+Today, after an unexpectedly long wait since it was [first revealed](https://www.youtube.com/watch?v=itpcsQQvgAQ), we finally [got our first look](https://www.youtube.com/watch?v=VrTVeYm4iIM) at Nintendo Switch 2 in detail. Here are my thoughts the presentation, keeping in mind that this is a tech blog, not a gaming blog, so I'll be focusing on what interested me most.
+
+# Disclaimer
+I can't in good conscience write this post without clarifying that I will not be buying the system, at least not new or at launch, in protest of Nintendo's destructive legal efforts that have had a chilling effect on game preservation. I encourage others to join me. Despite no accusations of wrongdoing, Nintendo killed [Citra Emulator](https://en.wikipedia.org/wiki/Citra_(emulator)) in 2024 as a condition of an unrelated settlement. Though 3DS game preservation is [starting to recover](https://azahar-emu.org/) a year on, this cost us much innovation and was clearly an attempt to kill preservation efforts entirely. With digital stores like the 3DS's closing and [replacement parts running out](https://www.nintendolife.com/news/2025/03/nintendo-runs-out-of-replacement-parts-for-2ds-systems-and-new-3ds-ll-ends-repairs-in-japan), preservation has never been more important. Nintendo also [shutdown legal Switch emulator Ryujinx](https://www.theverge.com/2024/10/1/24259791/nintendo-ryujinx-switch-emulator-gdkchan-removed-downloads-github) by unknown means, in addition to Yuzu, who they likely had legal merits against, ending mainstream Switch emulation and preservation entirely for the time being. With modern digital-first games at high risk of being lost to time, these attacks on preservation are unacceptable and no discussion of Switch 2 is complete without acknowledging this.
+
+# Mario Kart World
+With that unpleasantness out of the way, I'll start where the presentation did with Mario Kart World. I'm a big Mario Kart fan so this instantly had my attention. It's very hard to think of a better launch title, given Mario Kart 8 Deluxe is currently the [best selling Switch 1 game](https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_Switch_video_games) by a wide margin. Everything shown looks fantastic. Mario Kart is open-world now, going as far as to add long, seamless races from one corner of the map to another, spanning many tracks. The player count got a boost to 24, too, making this very technically ambitious. I'll be especially curious to see if they can pull of a 120 FPS mode (spoilers!).
+
+# GameChat
+Next up was [GameChat](https://www.nintendo.com/us/gaming-systems/switch-2/features/gamechat/). This is where my optimism drops a bit. We know what the "C" button is for now. It opens GameChat, Nintendo's new replacement for the very lackluster voice chat on Switch 1. The console now as a mic, featuring noise canceling and allegedly the ability for pick up your voice clearly even while the system is far away docked by the TV. GameChat also supports video calls with a USB camera and screen sharing.
+
+GameChat seems to essentially be Discord by Nintendo - and that's the problem. We don't need another chat service, this time confirmed to be locked to Switch 2. We need open-source, secure, private chat services with wide cross-platform availability, not proprietary services that only work on one platform. Nintendo confirmed that chat works even when playing different games than your friends. But what if I'm playing a game on another platform? Or I just want to hang out with my friends from my phone or PC? Integrating something like Discord - [now working on rolling out end-to-end encryption](https://discord.com/blog/meet-dave-e2ee-for-audio-video) - would have been a much more consumer-friendly approach. Even better, they could have worked with [Signal](https://signal.org/), the gold standard for private messengers, to integrate it into the system with the small number of extra features they might need. I have no confidence that Nintendo can, or will even try to, create a private and secure chat service from scratch. So much of GameChat seems genuinely lovely but this is a major step back for the industry at a time when the better option of Discord, despite it's flaws, has already been embraced by [Microsoft](https://discord.com/blog/xbox-voice-integration-announcement) and [Sony](https://discord.com/blog/playstation-5-voice-integration-announcement). 
+
+# GameShare
+Download Play is back! The 3DS's legacy lives on through [GameShare](https://www.nintendo.com/us/gaming-systems/switch-2/features/gameshare/), Nintendo's new and improved approach to sharing games for multiplayer. Only a Switch 2 system can do the sharing (why?!) but a Switch 1 can receive. It even works online, though I would hope locally can go faster by sharing game files directly P2P. 
+
+# Display
+Switch 2 gets a massive display upgrade. It has a 1080p, 120Hz, HDR screen for handheld mode and supports 1440p and 2160p output when docked. It's unclear yet if there's enough HDMI bandwidth to go around for 4K/120Hz, but we know 1080p/120Hz is possible when docked. The handheld screen is presumably not OLED though, and there was no mention of VRR, docked or handheld. VRR should not be optional, especially not docked.
+
+# Joy-Con 2
+My least favorite modern controllers are getting a nice revamp. They attach magnetically instead of using rails. The SL and SR buttons are bigger, a nice upgrade considering how essential the wrist strap's button enhancements were to making them actually usable on Switch 1. Both the left and right Joy-Con 2's sport an optical sensor on the side to allow them to double as mice, a very welcome addition, assuming it works well. My hope is that this makes mouse support on PlayStation and Xbox finally more mainstream. USB mice have been supported for a while by both but developers frustratingly seldom use it, even for games with PC versions. Lastly, the thumbsticks are bigger, possibly fixing my biggest issue with Joy-Con 1.
+
+# Storage
+Switch 2 gets a great storage upgrade. 32GB on the original Switch was unacceptable in even in 2017, so 256GB for Switch 2 is very welcome. microSD Express is now required for expansion though, making it more expensive and incompatible with existing Switch 1 cards. It would have been nice to be able to port over your Switch 1 library instantly by transferring the card, as you can do with external storage on PlayStation and Xbox. The good news is that this confirms that storage is much faster this time around, and we've already gotten confirmation that Zelda BotW and TotK will load much faster now.
+
+# Dock
+The dock's main upgrade is a fan. Switch 1 was heavily downclocked from the Tegra X1's baseline, presumably for power and thermal reasons. Switch 2 should be able to boost very nicely when docked thanks to enhanced active cooling.
+
+# Game Cards
+Switch 2 uses game cards of the same shape as Switch 1, a break from the 3DS's approach of changing their shape to avoid confusion. They are making Switch 2 cards red this time though to compensate. I wonder what'll happen when a Switch 2 card is inserted into a Switch 1. Switch 2 cards will also be much faster to maintain parity with the faster internal and expansion storage. The downside is that physical releases will now extract a roughly $10 markup over digital games, yet another reason why the preservation efforts I mentioned earlier are no less critical now than they have ever been. Physical media is on it's way out.
+
+# Enhanced Switch 1 Games
+Switch 2 is predictably getting enhanced versions of select Switch 1 games. No mention of something analogous to PS5's boost mode or Xbox Series console's FPS Boost, though, which is a major missed opportunity. Most Nintendo Switch 2 Edition upgrades as they're being called will be paid upgrades, which I consider unreasonable. Basic resolution and framerate upgrades should always be free, especially when Switch 1 was so underpowered. 
+
+Zelda BotW and TotK will run at undisclosed higher resolutions and framerates, as will Pokemon ZA and many other games. Metroid Prime 4 will support 4K/60 docked and 1080p/60 handheld in resolution mode and 1080p/120 docked and 720p/120 handheld in framerate mode, an excellent sign of what Switch 2 is capable of. 
+
+# Showpiece Games
+There were several tantalizing showpiece games that further reinforce Switch 2's compute prowess. Elden Ring and Cyberpunk 2077 coming to Switch 2 was jaw dropping. I'm utterly fascinated to see how well they pulled that off, given even the PS4 and Xbox One struggle with those games quite a bit. The new Hyrule Warriors has genuinely insane levels of enemy density for a portable device, too. This all points to monumental achievements if there aren't any devils in the details.
+
+# What was Missing
+There was no mention of upscaling tech like DLSS anywhere in the presentation, despite both leaks and common sense saying that should be a major component of Switch 2's toolkit. Raytracing was also missing, implying it may by absent. I can imagine Nintendo would want to brag about having an RT-capable handheld if that were actually the case. Nintendo also stayed clear of any internal specs, seemingly wanting to focus on the games and "experience" of it all, which I don't really blame them for. We'll get more details from third parties soon enough if the Switch 1's launch lifecycle repeats itself in any way.
+
+# Price
+I can't not discuss the price. $450 is steep for the base console. $90 for Mario Kart World physically is absurd. This is the Nintendo tax taken to a whole new level. The entire industry is likely to use this as an excuse to lurch prices forward across the board. I understand games are getting more expensive to make, but this is just too much.
+
+# Final Thoughts
+There was a lot of good here. The new hardware seems capable, though perhaps missing AI and RT features, depending on what Nintendo just wasn't wanting to discuss. The price is high, but I really don't feel that strongly about it. Despite Nintendo's explicit claims that Switch 2 isn't just Switch 1 but better, I feel like that's exactly what is - and exactly what it should be. Nintendo just needs to cut it out with the obsession with vendor lock-in for voice chat, keep physical games affordable, and stop interfering in attempts to keep their beloved games playable to generations to come.
